@@ -3480,6 +3480,10 @@ input, select, textarea {
 						font-size: 0.8em;
 					}
 
+          #header h1 img {
+            width: 60px;
+          }
+
 				}
 
 		#header nav {
